@@ -3,7 +3,7 @@
 /* TAG */
 
 p {
-  font-size: 45px;
+  font-size: 15px;
 }
 /* Todo parágrafo vai receber */
 
@@ -13,7 +13,7 @@ h2 {
 /* Todo h2 vai recerber */
 
 p span {
-  font-size: 35px;
+  font-size: 15px;
   color: chocolate;
 }
 
@@ -22,10 +22,19 @@ p span {
 #primeiro-paragrafo,
 #segundo-paragrafo,
 #terceiro-paragrafo {
-  font-size: 60px;
+  font-size: 15px;
 }
 
 /* Classe */
 .paragrafo {
   color: aqua;
+}
+
+p.span-textinho {
+  font-size: 15px;
+  color: greenyellow;
+}
+p .span-textinho {
+  font-size: 15px;
+  color: rgb(47, 50, 255);
 }
