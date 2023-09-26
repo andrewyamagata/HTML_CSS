@@ -28,12 +28,20 @@ p {
 .realce {
   font-style: italic;
   font-weight: bold;
-  color: aqua;
+  color: #000000;
+  /* HEXADECIMAL */
 }
 
 .caixa-alta {
   text-transform: uppercase;
   font-weight: bold;
+  font-style: italic;
+  color: rgba(174, 255, 120, 0.548);
+  /* RGB com Trransparência*/
+}
+
+.caixa-baixa {
+  text-transform: lowercase;
   font-style: italic;
   color: blue;
 }
