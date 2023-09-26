@@ -25,6 +25,12 @@ p {
   line-height: 1.5;
 }
 
+a {
+  font-style: italic;
+  text-decoration: none;
+  color: salmon;
+}
+
 .realce {
   font-style: italic;
   font-weight: bold;
