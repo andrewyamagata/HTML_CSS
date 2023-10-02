@@ -37,3 +37,19 @@ h1 {
   font-weight: 700;
   text-decoration: none;
 }
+
+/* Seção Conteúdos Gratuitos */
+.gratuito-h2 {
+  font-weight: 400;
+  font-size: 35px;
+}
+
+h2.gratuito-h2 span {
+  color: #7a40be;
+  font-weight: 600;
+}
+
+.gratuito-h3 {
+  font-weight: 700;
+  font-size: 23px;
+}
