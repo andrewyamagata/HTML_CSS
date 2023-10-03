@@ -53,3 +53,8 @@ h2.gratuito-h2 span {
   font-weight: 700;
   font-size: 23px;
 }
+
+.gratuito-item-lista {
+  font-size: 19px;
+  text-decoration: none;
+}
