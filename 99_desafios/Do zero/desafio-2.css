@@ -1,3 +1,5 @@
+/* Geral */
+
 h1,
 h2,
 h3,
@@ -71,4 +73,10 @@ h2.gratuito-h2 span {
 
 .diferenciais-p {
   font-size: 19px;
+}
+
+.diferenciais-h3 {
+  color: #005e88;
+  font-size: 24px;
+  font-weight: 600;
 }
