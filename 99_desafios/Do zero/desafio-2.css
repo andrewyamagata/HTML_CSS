@@ -144,3 +144,24 @@ h2.gratuito-h2 span {
 .blog-descricaopost {
   font-size: 17px;
 }
+
+/* Seção como ajudar */
+
+.comoajudar-realce {
+  font-weight: 600;
+}
+
+.comoajudar-lista,
+.comoajudar-paragrafo {
+  font-size: 19px;
+}
+
+.comoajudar-lista a,
+.comoajudar-paragrafo a {
+  color: #008ff7;
+  font-weight: 600;
+}
+
+.comoajudar-paragrafo b {
+  font-weight: 600;
+}
